@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Yohan Jeong</title>
+    <link>https://yjeong5126.github.io/Yohan_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Yohan Jeong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yjeong5126.github.io/Yohan_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Creating a Database and Practicing SQL Queries</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-4/</guid>
+      <description>Converted a data in one spreadsheet to a relational database for SQL. Performed several SQL queries using the database.  Link to GitHub Repository
+Medium Post 1, Medium Post 2</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Scraping Box Office Info Using Scrapy</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-1/</guid>
+      <description> Scraped the Boxofficemojo website using Scrapy in Python. Checked all the movies released in the US during certain periods of time and extracted useful information about the individual movies. For each movie, Domestic Revenues, Worldwide Revenues, Distributor, Opening, Budget, MPAA, Genres, and In Release are scraped.  </description>
+    </item>
+    
+  </channel>
+</rss>

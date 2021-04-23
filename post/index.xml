@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yohan Jeong</title>
+    <link>https://yjeong5126.github.io/Yohan_Portfolio/post/</link>
+    <description>Recent content in Projects on Yohan Jeong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://yjeong5126.github.io/Yohan_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 8: Making an Item-based Collaborative Filtering</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-8/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-8/</guid>
+      <description>Used a sample rating dataset: 10 movies and 10 users Found similar movies to a selected movie using the NearestNeighbors() in the sklearn library which applies the cosine similarity method. Predicted the unknown rating for the movie using the weighted average of ratings for the similar movies by the user. Built a movie recommender using the algorithm and applied it to the real movie dataset.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Making a Content-based Movie Recommender</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-7/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-7/</guid>
+      <description>Used a movie data set from the MovieLens, which has 9742 movies. Quantified the movie features using the Term Frequency and Inverse Document Frequency (tf-idf). Calculated the similarities between movies using the cosine similarity. Added the ‘Did you mean…?’ function to the recommender in order to make the searching process easier.    Link to GitHub Repository
+Medium Post</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Cohort Analysis</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-6/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-6/</guid>
+      <description>Implemented the cohort analysis using eCommerce data from UIC machine learning repository Showed how to create the matrix for cohort analysis from the raw ecommerce data.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: The Analysis for Glassdoor Job Postings</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-5/</guid>
+      <description>Scraped over 3000 job postings for ‘Data Analyst’ from the Glassdoor website using the Selenium library in the Python Cleaned the scraped data using the Python. Converted the data to the format for the Relational Database to store it in the SQL format. Visualized the data using Tableau, showing the salary distributions by state, city, sector, and skills.    
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Creating a Database and Practicing SQL Queries</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-4/</guid>
+      <description>Converted a data in one spreadsheet to a relational database for SQL. Performed several SQL queries using the database.  Link to GitHub Repository
+Medium Post 1, Medium Post 2</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Predicting Housing Prices using Cross Validation and Grid Search in Regression Models</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-3/</guid>
+      <description>Analyze the factors related to housing prices in Melbourne and performed the predictions for the housing prices using several machine learning techniques. Employed Linear Regression, Ridge Regression, K-Nearest Neighbors, and Decision Tree. Found the optimal values for hyper parameters in each model using the methods of the Cross Validation and Grid Search techniques. Compared the results to find the best machine learning model to predict the housing prices in Melbourne.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Analysis of Movies and their Trailer Release Dates</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-2/</guid>
+      <description>Scraped the Boxofficemojo and Traileraddict websites to get movie information. Explored movie features such as budget, distributors, MPAA, and genres. Examined whether the variation in the promotion period is related to such features.    Link to GitHub Repository
+Medium Post</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Scraping Box Office Info Using Scrapy</title>
+      <link>https://yjeong5126.github.io/Yohan_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yjeong5126.github.io/Yohan_Portfolio/post/project-1/</guid>
+      <description> Scraped the Boxofficemojo website using Scrapy in Python. Checked all the movies released in the US during certain periods of time and extracted useful information about the individual movies. For each movie, Domestic Revenues, Worldwide Revenues, Distributor, Opening, Budget, MPAA, Genres, and In Release are scraped.  </description>
+    </item>
+    
+  </channel>
+</rss>
